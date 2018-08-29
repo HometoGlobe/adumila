@@ -11,7 +11,7 @@ while($y >=  5) {
     echo "asdf 7 ";
     echo "asdf 8 ";
     echo "asdf 9 ";
-    echo "asdf 10 ";
+    echo "asdf 88 ";
     $x--;
 }
 ?> 
