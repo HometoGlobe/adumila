@@ -1,8 +1,8 @@
 <?php
-$x = 1;
+$y = 10;
 
-while($x <= 5) {
+while($y >=  5) {
     echo "The number ISS: $x <br>";
-    $x++;
+    $x--;
 }
 ?> 
