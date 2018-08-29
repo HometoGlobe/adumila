@@ -1,6 +1,8 @@
 <?php
 class test{
-    public function ztest(){
+    public function Testasdfasdfasdf(){
+        echo "test";
+        echo "test";
         echo "test";
     }
 }
