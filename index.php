@@ -1,6 +1,6 @@
 <?php
 class test{
-    public function Testasdfasdfasdf1(){
+    public function sdfsdf(){
         echo "test";
         echo "test";
         echo "test";
