@@ -12,7 +12,7 @@ while($y >=  5) {
     echo "asdf 8 ";
     echo "this will be a better one";
     echo "asdf 9 ";
-    echo "asdf 15 ";
+    echo "asdf 48 ";
     $x--;
 }
 ?> 
