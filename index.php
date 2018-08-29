@@ -1,7 +1,7 @@
 <?php
-class thisisnotaFunctions{
-    public function testFunction(){
-        echo "asdfasdfsafdsafd";
+class test{
+    public function test(){
+        echo "test";
     }
 }
 
