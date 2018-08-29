@@ -1,9 +1,9 @@
 <?php
 class test {
     public function testing(){
-        echo "test";
-        echo "test";
-        echo "tesst";
+        while($a = 10){
+            echo "hi";   
+        }
     }
 }
 
