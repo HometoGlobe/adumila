@@ -1,5 +1,5 @@
 <?php
-$y = 10;
+$y =5;
 
 while($y >=  5) {
     echo "The number ISSS: $x <br>";
