@@ -1,5 +1,5 @@
 <?php
-class thisisnotaFunction{
+class thisisnotaFunctions{
     public function testFunction(){
         echo "asdfasdfsafdsafd";
     }
