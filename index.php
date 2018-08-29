@@ -1,5 +1,5 @@
 <?php
-class test{
+class testasdfasdf{
     public function sdfsdf(){
         echo "test";
         echo "test";
